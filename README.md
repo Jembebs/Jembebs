@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jembebs
+- 👀 I’m interested in computers, snow, penguins, and igloos.
+- 🌱 I’m currently learning how to center a div. Graduated at Polytechnic University of the Philippines with the degree of Bachelor of Science in Computer Engineering.
+- 💞️ LinkedIn: https://www.linkedin.com/in/john-benedict-manaluz-bb468021a/
